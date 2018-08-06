@@ -1,0 +1,5 @@
+Run JsonReader, provide full path of data in args[0]
+
+- Used gson json streaming api
+- JsonReader is the main class
+- Message class contains the json object model
